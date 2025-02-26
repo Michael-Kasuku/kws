@@ -2,42 +2,95 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/kws.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
+
+    <!-- SEO Metadata -->
+    <title>Kasuku Web Solutions</title>
+    <meta 
+      name="description" 
+      content="Kasuku Web Solutions provides expert web development, SEO, digital marketing, and IT solutions. We build responsive, user-friendly websites to boost your online presence." 
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
+    <meta 
+      name="keywords" 
+      content="Kasuku Web Solutions, web development, SEO services, digital marketing, content creation, IT solutions, social media management, branding, technical writing" 
+    />
+    <meta name="author" content="Kasuku Web Solutions" />
+    <link rel="canonical" href="https://www.kasukuwebsolutions.com/" />
+
+    <!-- Open Graph Meta Tags for Social Sharing -->
+    <meta property="og:title" content="Kasuku Web Solutions | Web Development & Digital Marketing" />
+    <meta property="og:description" content="Expert web development and digital marketing services to enhance your brand's online presence." />
+    <meta property="og:image" content="%PUBLIC_URL%/kws.png" />
+    <meta property="og:url" content="https://www.kasukuwebsolutions.com/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kasuku Web Solutions | Web Development & Digital Marketing" />
+    <meta name="twitter:description" content="Professional web development, SEO, and digital marketing solutions to grow your business online." />
+    <meta name="twitter:image" content="%PUBLIC_URL%/kws.png" />
+
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/kws.png" />
+
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/bootstrap.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="%PUBLIC_URL%/fonts/font-awesome/css/font-awesome.css"
+    />
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/style.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="%PUBLIC_URL%/css/nivo-lightbox/nivo-lightbox.css"
+    />
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/css/nivo-lightbox/default.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900"
+      rel="stylesheet"
+    />
+
+    <!-- Web App Manifest -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
+    <!-- JSON-LD Structured Data for SEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Kasuku Web Solutions",
+        "url": "https://www.kasukuwebsolutions.com/",
+        "logo": "%PUBLIC_URL%/kws.png",
+        "description": "Kasuku Web Solutions specializes in web development, SEO, digital marketing, and IT solutions.",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+254741392099",
+          "contactType": "customer service",
+          "areaServed": "KE",
+          "availableLanguage": "en"
+        },
+        "sameAs": [
+          "https://www.facebook.com/kasukuwebsolutions",
+          "https://twitter.com/kasukuwebsolutions",
+          "https://www.linkedin.com/company/kasukuwebsolutions"
+        ]
+      }
+    </script>
   </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+    <script type="text/javascript" src="%PUBLIC_URL%/js/jquery.1.11.1.js"></script>
+    <script type="text/javascript" src="%PUBLIC_URL%/js/bootstrap.js"></script>
   </body>
 </html>

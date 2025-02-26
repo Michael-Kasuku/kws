@@ -1,0 +1,82 @@
+{
+  "Header": {
+    "paragraph": "Transform your business with cutting-edge web development, IT solutions, SEO, and digital marketing designed to drive growth, visibility, and long-term success."
+  },
+  "About": {
+    "paragraph": "At Kasuku Web Solutions, we empower businesses with innovative digital solutions. Our expertise in web development, digital marketing, IT consulting, and business optimization ensures you stay ahead in a competitive online landscape. We craft tailored strategies that maximize impact, efficiency, and profitability.",
+    "Why": [
+      "Custom-Built Web Solutions for Maximum Performance",
+      "Advanced SEO Strategies for Top Search Rankings",
+      "High-Impact Digital Marketing to Boost Conversions",
+      "Reliable IT Consulting & 24/7 Technical Support"
+    ],
+    "Why2": [
+      "Scalable, Future-Proof Digital Solutions",
+      "Client-First Approach with Guaranteed Results",
+      "Data-Driven Strategies for Measurable Growth",
+      "Leveraging the Latest Technology for Maximum Efficiency"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-globe",
+      "name": "Web Development",
+      "text": "Get a professionally designed, high-performance website that enhances user experience and drives sales."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "SEO Services",
+      "text": "Dominate search rankings with cutting-edge SEO strategies that increase visibility and organic traffic."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Digital Marketing",
+      "text": "Maximize brand reach and conversions with data-driven digital marketing campaigns that deliver results."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Content Creation",
+      "text": "Engage your audience with compelling, high-quality content that strengthens brand credibility and authority."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "IT Solutions",
+      "text": "Ensure seamless business operations with expert IT consulting, cybersecurity, and infrastructure support."
+    },
+    {
+      "icon": "fa fa-share-alt",
+      "name": "Social Media Management",
+      "text": "Increase engagement and brand impact with expertly crafted social media strategies and management."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/kasuku.png",
+      "name": "Michael Kasuku",
+      "job": "Founder & CEO - Spearheading innovation, strategy, and growth to deliver cutting-edge digital solutions."
+    },
+    {
+      "img": "img/team/daisy.png",
+      "name": "Daisy Lopez",
+      "job": "Chief Technology Officer - Leading web development, IT infrastructure, and tech-driven business optimization."
+    },
+    {
+      "img": "img/team/josphine.png",
+      "name": "Josphine Otieno",
+      "job": "Digital Strategy & SEO Director - Driving SEO, digital marketing, and content strategies for maximum online visibility."
+    },
+    {
+      "img": "img/team/kws.png",
+      "name": "Brian Mugambi",
+      "job": "Cybersecurity Analyst - Enhancing digital security and ensuring seamless technological operations."
+    }
+  ],
+  "Contact": {
+    "address": "Kakamega, Kenya",
+    "phone": "+254741392099",
+    "email": "kasukuwebsolutions@gmail.com",
+    "facebook": "https://www.facebook.com/kasukuwebsolutions",
+    "twitter": "https://twitter.com/kasukuwebsolutions",
+    "linkedin": "https://www.linkedin.com/company/kasukuwebsolutions"
+  }
+}
