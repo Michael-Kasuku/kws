@@ -470,6 +470,265 @@ header .intro-text {
   line-height: 1.6;
 }
 
+/* ============================= */
+/*          PRICING SECTION      */
+/* ============================= */
+
+#pricing {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 90px 0;
+  text-align: center;
+}
+
+/* Section Title */
+#pricing .section-title h2 {
+  font-size: 2.8rem;
+  color: #1d1d1d;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+#pricing .section-title p {
+  font-size: 1.25rem;
+  color: #555;
+  margin-bottom: 35px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ============================= */
+/*         CARD STYLING          */
+/* ============================= */
+
+#pricing .card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  overflow: hidden;
+  padding: 30px;
+  margin: 20px;
+  transition: all 0.4s ease-in-out;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+#pricing .card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* Featured Plan */
+#pricing .card.featured {
+  border: 2px solid #007bff;
+}
+
+#pricing .card.featured::before {
+  content: "Recommended";
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #007bff;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 12px;
+}
+
+/* Card Icon */
+#pricing .card-body i {
+  color: #007bff;
+  font-size: 2.2rem;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+#pricing .card:hover .card-body i {
+  transform: scale(1.15);
+  color: #0056b3;
+}
+
+/* Plan Title */
+#pricing .card-title {
+  font-size: 1.9rem;
+  color: #222;
+  font-weight: 800;
+  margin-bottom: 18px;
+}
+
+/* Pricing Details */
+#pricing h5 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #28a745;
+  margin-bottom: 10px;
+}
+
+#pricing p {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* ============================= */
+/*        FEATURES LIST          */
+/* ============================= */
+
+#pricing .list-group {
+  margin-top: 18px;
+}
+
+#pricing .list-group-item {
+  font-size: 1.05rem;
+  color: #333;
+  background: transparent;
+  border: none;
+  padding: 12px 0;
+  display: flex;
+  align-items: center;
+  transition: color 0.3s ease-in-out;
+}
+
+#pricing .list-group-item::before {
+  content: "✔";
+  color: #28a745;
+  font-weight: bold;
+  margin-right: 12px;
+}
+
+#pricing .list-group-item:hover {
+  color: #007bff;
+}
+
+/* ============================= */
+/*        BUTTON STYLING         */
+/* ============================= */
+
+#pricing .btn-pricing {
+  background: #007bff;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 12px 25px;
+  border-radius: 8px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 20px;
+}
+
+#pricing .btn-pricing:hover {
+  background: #0056b3;
+  transform: scale(1.05);
+}
+
+/* ============================= */
+/*       RESPONSIVE DESIGN       */
+/* ============================= */
+
+@media (max-width: 992px) {
+  #pricing {
+    padding: 75px 0;
+  }
+
+  #pricing .section-title h2 {
+    font-size: 2.5rem;
+  }
+
+  #pricing .card-title {
+    font-size: 1.7rem;
+  }
+
+  #pricing h5 {
+    font-size: 1.3rem;
+  }
+
+  #pricing p {
+    font-size: 1rem;
+  }
+
+  #pricing .btn-pricing {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  #pricing {
+    padding: 65px 0;
+  }
+
+  #pricing .section-title h2 {
+    font-size: 2.2rem;
+  }
+
+  #pricing .card {
+    padding: 20px;
+    margin: 15px;
+  }
+
+  #pricing .card-title {
+    font-size: 1.6rem;
+  }
+
+  #pricing h5 {
+    font-size: 1.2rem;
+  }
+
+  #pricing p {
+    font-size: 0.95rem;
+  }
+
+  #pricing .btn-pricing {
+    font-size: 0.95rem;
+    padding: 10px 20px;
+  }
+}
+
+/* Testimonials Section */
+#testimonials {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+#testimonials i {
+  color: #e6e6e6;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.testimonial {
+  position: relative;
+  padding: 20px;
+}
+.testimonial-image {
+  float: left;
+  margin-right: 15px;
+}
+.testimonial-image,
+.testimonial-image img {
+  display: block;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+.testimonial-content {
+  position: relative;
+  overflow: hidden;
+}
+.testimonial-content p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-style: italic;
+}
+.testimonial-meta {
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #666;
+}
+
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -867,14 +1126,13 @@ label {
   }
 }
 
-
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background: #121826;
   padding: 30px 0;
 }
 #footer p {
-  color: #888;
+  color: #fff;
   font-size: 14px;
 }
 #footer a {
