@@ -66,340 +66,340 @@
 ],
 
   "Pricing": [
-      {
-        "icon": "fa fa-globe",
-        "service": "Web Development",
-        "Starter Package": {
-          "price": "Ksh 10,000 - Ksh 20,000",
-          "discount": "10% off for first-time customers",
-          "features": [
-            "Basic website (up to 3 pages)",
-            "Basic SEO setup",
-            "1-month free maintenance"
-          ],
-          "duration": "One-time service",
-          "renewal": "Maintenance renewal(optional)"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 25,000 - Ksh 50,000",
-          "discount": "15% off for returning customers",
-          "features": [
-            "Custom website (up to 7 pages)",
-            "SEO optimization",
-            "3-month free maintenance"
-          ],
-          "duration": "One-time service",
-          "renewal": "Maintenance renewal(optional)"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 60,000+",
-          "discount": "20% off for long-term clients",
-          "features": [
-            "Premium website (unlimited pages)",
-            "Full SEO package",
-            "6-month free maintenance"
-          ],
-          "duration": "One-time service",
-          "renewal": "Maintenance renewal(optional)"
-        }
-      },      
-      {
-        "icon": "fa fa-search",
-        "service": "SEO Services",
-        "Starter Package": {
-          "price": "Ksh 5,000 - Ksh 10,000",
-          "discount": "10% off for first-time clients",
-          "features": [
-            "Basic keyword research",
-            "On-page SEO optimization",
-            "Monthly performance report"
-          ],
-          "duration": "1 month",
-          "renewal": "Monthly renewal(Optional)"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 12,000 - Ksh 25,000",
-          "discount": "15% off for first renewal",
-          "features": [
-            "Advanced keyword research",
-            "On-page and technical SEO",
-            "Bi-weekly performance reports"
-          ],
-          "duration": "3 months",
-          "renewal": "Quarterly renewal(Optional)"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 30,000+",
-          "discount": "20% off for annual commitment",
-          "features": [
-            "Full SEO strategy",
-            "Content optimization",
-            "Weekly performance reports"
-          ],
-          "duration": "6 months",
-          "renewal": "Semi-annual renewal(Optional)"
-        }
-      },      
-      {
-        "icon": "fa fa-bullhorn",
-        "service": "Digital Marketing",
-        "Starter Package": {
-          "price": "Ksh 7,000 - Ksh 15,000",
-          "discount": "5% off for first-time clients",
-          "features": [
-            "Basic social media ads",
-            "1 marketing campaign",
-            "Basic audience targeting"
-          ],
-          "duration": "1 month",
-          "renewal": "Monthly renewal(Optional)"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 18,000 - Ksh 35,000",
-          "discount": "10% off for 6-month commitment",
-          "features": [
-            "Social media & Google Ads",
-            "3 marketing campaigns",
-            "Targeted audience engagement"
-          ],
-          "duration": "3 months",
-          "renewal": "Quarterly renewal(Optional)"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 40,000+",
-          "discount": "15% off for annual commitment",
-          "features": [
-            "Full PPC and social media ads management",
-            "A/B testing & conversion tracking",
-            "SEO-integrated campaigns"
-          ],
-          "duration": "6 months",
-          "renewal": "Semi-annual renewal(Optional)"
-        }
-      },      
-      {
-        "icon": "fa fa-pencil",
-        "service": "Content Creation",
-        "Starter Package": {
-          "price": "Ksh 3,000 - Ksh 8,000",
-          "features": [
-            "3 blog posts (500 words each)",
-            "1 social media post per week",
-            "Basic copywriting"
-          ],
-          "duration": "1 month",
-          "renewal": "Monthly renewal(Optional)",
-          "discount": "5% off for 3-month commitment"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 10,000 - Ksh 20,000",
-          "features": [
-            "5 blog posts (1000 words each)",
-            "3 social media posts per week",
-            "Copywriting for ads"
-          ],
-          "duration": "3 months",
-          "renewal": "Quarterly renewal(Optional)",
-          "discount": "10% off for 6-month commitment"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 25,000+",
-          "features": [
-            "10+ blog posts (1500+ words each)",
-            "Daily social media content",
-            "Press releases & whitepapers"
-          ],
-          "duration": "6 months",
-          "renewal": "Semi-annual renewal(Optional)",
-          "discount": "15% off for 12-month commitment"
-        }
-      },      
-      {
-        "icon": "fa fa-cogs",
-        "service": "IT Solutions",
-        "Starter Package": {
-          "price": "Ksh 10,000 - Ksh 20,000",
-          "discount": "5% for returning customers",
-          "features": [
-            "Basic IT support (troubleshooting)",
-            "System installation",
-            "Basic cybersecurity checks"
-          ],
-          "duration": "One-time service",
-          "renewal": "On-demand renewal(Optional)"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 25,000 - Ksh 50,000",
-          "discount": "10% for first-time clients",
-          "features": [
-            "Network setup & optimization",
-            "Security audits",
-            "Cloud storage setup"
-          ],
-          "duration": "3 months",
-          "renewal": "Quarterly renewal(Optional)"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 60,000+",
-          "discount": "15% for annual commitment",
-          "features": [
-            "Full IT infrastructure management",
-            "Advanced cybersecurity solutions",
-            "Enterprise cloud solutions"
-          ],
-          "duration": "6 months",
-          "renewal": "Semi-annual renewal(Optional)"
-        }
-      },      
-      {
-        "icon": "fa fa-share-alt",
-        "service": "Social Media Management",
-        "Starter Package": {
-          "price": "Ksh 5,000 - Ksh 12,000",
-          "discount": "5% off for first-time clients",
-          "features": [
-            "1 social media platform",
-            "3 posts per week",
-            "Basic engagement"
-          ],
-          "duration": "1 month",
-          "renewal": "Monthly renewal(Optional)"
-        },
-        "Business Growth Package": {
-          "price": "Ksh 15,000 - Ksh 30,000",
-          "discount": "10% off for first-time clients",
-          "features": [
-            "Up to 3 social media platforms",
-            "5 posts per week",
-            "Targeted engagement & ads"
-          ],
-          "duration": "3 months",
-          "renewal": "Quarterly renewal(Optional)"
-        },
-        "Premium Enterprise Package": {
-          "price": "Ksh 35,000+",
-          "discount": "15% off for 12-month commitment",
-          "features": [
-            "Full social media strategy",
-            "Daily content posting",
-            "Influencer collaborations"
-          ],
-          "duration": "6 months",
-          "renewal": "Semi-annual renewal(Optional)"
-        }
+    {
+      "icon": "fa fa-globe",
+      "service": "Web Development",
+      "Starter Package": {
+        "price": "Ksh 20,000 - Ksh 40,000",
+        "discount": "10% off for first-time customers",
+        "features": [
+          "Basic website (up to 3 pages)",
+          "Basic SEO setup",
+          "1-month free maintenance"
+        ],
+        "duration": "One-time service",
+        "renewal": "Maintenance renewal(optional)"
       },
+      "Business Growth Package": {
+        "price": "Ksh 50,000 - Ksh 100,000",
+        "discount": "15% off for returning customers",
+        "features": [
+          "Custom website (up to 7 pages)",
+          "SEO optimization",
+          "3-month free maintenance"
+        ],
+        "duration": "One-time service",
+        "renewal": "Maintenance renewal(optional)"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 120,000+",
+        "discount": "20% off for long-term clients",
+        "features": [
+          "Premium website (unlimited pages)",
+          "Full SEO package",
+          "6-month free maintenance"
+        ],
+        "duration": "One-time service",
+        "renewal": "Maintenance renewal(optional)"
+      }
+    },
+    {
+      "icon": "fa fa-search",
+      "service": "SEO Services",
+      "Starter Package": {
+        "price": "Ksh 10,000 - Ksh 20,000",
+        "discount": "10% off for first-time clients",
+        "features": [
+          "Basic keyword research",
+          "On-page SEO optimization",
+          "Monthly performance report"
+        ],
+        "duration": "1 month",
+        "renewal": "Monthly renewal(Optional)"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 30,000 - Ksh 60,000",
+        "discount": "15% off for first renewal",
+        "features": [
+          "Advanced keyword research",
+          "On-page and technical SEO",
+          "Bi-weekly performance reports"
+        ],
+        "duration": "3 months",
+        "renewal": "Quarterly renewal(Optional)"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 80,000+",
+        "discount": "20% off for annual commitment",
+        "features": [
+          "Full SEO strategy",
+          "Content optimization",
+          "Weekly performance reports"
+        ],
+        "duration": "6 months",
+        "renewal": "Semi-annual renewal(Optional)"
+      }
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "service": "Digital Marketing",
+      "Starter Package": {
+        "price": "Ksh 15,000 - Ksh 30,000",
+        "discount": "5% off for first-time clients",
+        "features": [
+          "Basic social media ads",
+          "1 marketing campaign",
+          "Basic audience targeting"
+        ],
+        "duration": "1 month",
+        "renewal": "Monthly renewal(Optional)"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 50,000 - Ksh 100,000",
+        "discount": "10% off for 6-month commitment",
+        "features": [
+          "Social media & Google Ads",
+          "3 marketing campaigns",
+          "Targeted audience engagement"
+        ],
+        "duration": "3 months",
+        "renewal": "Quarterly renewal(Optional)"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 120,000+",
+        "discount": "15% off for annual commitment",
+        "features": [
+          "Full PPC and social media ads management",
+          "A/B testing & conversion tracking",
+          "SEO-integrated campaigns"
+        ],
+        "duration": "6 months",
+        "renewal": "Semi-annual renewal(Optional)"
+      }
+    },          
+    {
+      "icon": "fa fa-pencil",
+      "service": "Content Creation",
+      "Starter Package": {
+        "price": "Ksh 5,000 - Ksh 12,000",
+        "features": [
+          "3 blog posts (500 words each)",
+          "1 social media post per week",
+          "Basic copywriting"
+        ],
+        "duration": "1 month",
+        "renewal": "Monthly renewal(Optional)",
+        "discount": "5% off for 3-month commitment"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 15,000 - Ksh 30,000",
+        "features": [
+          "5 blog posts (1000 words each)",
+          "3 social media posts per week",
+          "Copywriting for ads"
+        ],
+        "duration": "3 months",
+        "renewal": "Quarterly renewal(Optional)",
+        "discount": "10% off for 6-month commitment"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 35,000+",
+        "features": [
+          "10+ blog posts (1500+ words each)",
+          "Daily social media content",
+          "Press releases & whitepapers"
+        ],
+        "duration": "6 months",
+        "renewal": "Semi-annual renewal(Optional)",
+        "discount": "15% off for 12-month commitment"
+      }
+    },
+    {
+      "icon": "fa fa-cogs",
+      "service": "IT Solutions",
+      "Starter Package": {
+        "price": "Ksh 15,000 - Ksh 30,000",
+        "discount": "5% for returning customers",
+        "features": [
+          "Basic IT support (troubleshooting)",
+          "System installation",
+          "Basic cybersecurity checks"
+        ],
+        "duration": "One-time service",
+        "renewal": "On-demand renewal(Optional)"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 35,000 - Ksh 70,000",
+        "discount": "10% for first-time clients",
+        "features": [
+          "Network setup & optimization",
+          "Security audits",
+          "Cloud storage setup"
+        ],
+        "duration": "3 months",
+        "renewal": "Quarterly renewal(Optional)"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 80,000+",
+        "discount": "15% for annual commitment",
+        "features": [
+          "Full IT infrastructure management",
+          "Advanced cybersecurity solutions",
+          "Enterprise cloud solutions"
+        ],
+        "duration": "6 months",
+        "renewal": "Semi-annual renewal(Optional)"
+      }
+    },          
+    {
+      "icon": "fa fa-share-alt",
+      "service": "Social Media Management",
+      "Starter Package": {
+        "price": "Ksh 8,000 - Ksh 15,000",
+        "discount": "5% off for first-time clients",
+        "features": [
+          "1 social media platform",
+          "3 posts per week",
+          "Basic engagement"
+        ],
+        "duration": "1 month",
+        "renewal": "Monthly renewal (Optional)"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 20,000 - Ksh 40,000",
+        "discount": "10% off for first-time clients",
+        "features": [
+          "Up to 3 social media platforms",
+          "5 posts per week",
+          "Targeted engagement & ads"
+        ],
+        "duration": "3 months",
+        "renewal": "Quarterly renewal (Optional)"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 50,000+",
+        "discount": "15% off for 12-month commitment",
+        "features": [
+          "Full social media strategy",
+          "Daily content posting",
+          "Influencer collaborations"
+        ],
+        "duration": "6 months",
+        "renewal": "Semi-annual renewal (Optional)"
+      }
+    },
+    {
+      "icon": "fa fa-laptop",
+      "service": "Essential Digital Skills",
+      "Starter Package": {
+        "price": "Ksh 8,000 - Ksh 12,000",
+        "discount": "10% off for students",
+        "features": [
+          "Computer Essentials",
+          "Online Essentials",
+          "Cybersecurity Basics"
+        ],
+        "duration": "4 weeks",
+        "renewal": "Optional refresher course available"
+      },
+      "Business Growth Package": {
+        "price": "Ksh 15,000 - Ksh 25,000",
+        "discount": "15% off for returning learners",
+        "features": [
+          "Online Collaboration",
+          "Cybersecurity for Work",
+          "Digital Productivity Tools"
+        ],
+        "duration": "6 weeks",
+        "renewal": "Certification renewal available"
+      },
+      "Premium Enterprise Package": {
+        "price": "Ksh 30,000+",
+        "discount": "20% off for corporate training",
+        "features": [
+          "Comprehensive Digital Skills Training",
+          "Cybersecurity Awareness Program",
+          "Workplace Digital Transformation"
+        ],
+        "duration": "8 weeks",
+        "renewal": "Ongoing support and updates"
+      }
+    },
 
         {
-          "icon": "fa fa-laptop",
-          "service": "Essential Digital Skills",
-          "Starter Package": {
-            "price": "Ksh 5,000 - Ksh 10,000",
-            "discount": "10% off for students",
-            "features": [
-              "Computer Essentials",
-              "Online Essentials",
-              "Cybersecurity Basics"
-            ],
-            "duration": "4 weeks",
-            "renewal": "Optional refresher course available"
-          },
-          "Business Growth Package": {
-            "price": "Ksh 12,000 - Ksh 18,000",
-            "discount": "15% off for returning learners",
-            "features": [
-              "Online Collaboration",
-              "Cybersecurity for Work",
-              "Digital Productivity Tools"
-            ],
-            "duration": "6 weeks",
-            "renewal": "Certification renewal available"
-          },
-          "Premium Enterprise Package": {
-            "price": "Ksh 20,000+",
-            "discount": "20% off for corporate training",
-            "features": [
-              "Comprehensive Digital Skills Training",
-              "Cybersecurity Awareness Program",
-              "Workplace Digital Transformation"
-            ],
-            "duration": "8 weeks",
-            "renewal": "Ongoing support and updates"
-          }
-        },
-        {
-          "icon": "fa fa-briefcase",
-          "service": "Office Productivity Training",
-          "Starter Package": {
-            "price": "Ksh 6,000 - Ksh 12,000",
-            "discount": "10% off for first-time learners",
-            "features": [
-              "Basic Word Processing",
-              "Basic Spreadsheets",
-              "Basic Presentations"
-            ],
-            "duration": "4 weeks",
-            "renewal": "Optional advanced training available"
-          },
-          "Business Growth Package": {
-            "price": "Ksh 15,000 - Ksh 25,000",
-            "discount": "15% off for returning learners",
-            "features": [
-              "Intermediate Word Processing",
-              "Advanced Spreadsheets",
-              "Professional Presentation Skills"
-            ],
-            "duration": "6 weeks",
-            "renewal": "Certification renewal available"
-          },
-          "Premium Enterprise Package": {
-            "price": "Ksh 30,000+",
-            "discount": "20% off for corporate teams",
-            "features": [
-              "Comprehensive Office Suite Training",
-              "Data Analysis with Spreadsheets",
-              "Advanced Business Reporting"
-            ],
-            "duration": "8 weeks",
-            "renewal": "Ongoing support and updates"
-          }
-        },
-        {
-          "icon": "fa fa-code",
-          "service": "Programming & Development",
-          "Starter Package": {
-            "price": "Ksh 8,000 - Ksh 15,000",
-            "discount": "10% off for students",
-            "features": [
-              "Introduction to Web Programming",
-              "Basic HTML, CSS, and JavaScript",
-              "Introduction to Database Programming"
-            ],
-            "duration": "6 weeks",
-            "renewal": "Optional advanced course available"
-          },
-          "Business Growth Package": {
-            "price": "Ksh 20,000 - Ksh 35,000",
-            "discount": "15% off for returning learners",
-            "features": [
-              "Full-Stack Web Development",
-              "Database Management Systems",
-              "Backend Development Basics"
-            ],
-            "duration": "10 weeks",
-            "renewal": "Certification renewal available"
-          },
-          "Premium Enterprise Package": {
-            "price": "Ksh 50,000+",
-            "discount": "20% off for corporate training",
-            "features": [
-              "Advanced Web and Software Development",
-              "Cloud-Based Database Programming",
-              "Custom Software Development Training"
-            ],
-            "duration": "12 weeks",
-            "renewal": "Ongoing mentorship and support"
-          }
-        }            
+  "icon": "fa fa-briefcase",
+  "service": "Office Productivity Training",
+  "Starter Package": {
+    "price": "Ksh 10,000 - Ksh 18,000",
+    "discount": "10% off for first-time learners",
+    "features": [
+      "Basic Word Processing",
+      "Basic Spreadsheets",
+      "Basic Presentations"
+    ],
+    "duration": "4 weeks",
+    "renewal": "Optional advanced training available"
+  },
+  "Business Growth Package": {
+    "price": "Ksh 20,000 - Ksh 35,000",
+    "discount": "15% off for returning learners",
+    "features": [
+      "Intermediate Word Processing",
+      "Advanced Spreadsheets",
+      "Professional Presentation Skills"
+    ],
+    "duration": "6 weeks",
+    "renewal": "Certification renewal available"
+  },
+  "Premium Enterprise Package": {
+    "price": "Ksh 40,000+",
+    "discount": "20% off for corporate teams",
+    "features": [
+      "Comprehensive Office Suite Training",
+      "Data Analysis with Spreadsheets",
+      "Advanced Business Reporting"
+    ],
+    "duration": "8 weeks",
+    "renewal": "Ongoing support and updates"
+  }
+},
+{
+  "icon": "fa fa-code",
+  "service": "Programming & Development",
+  "Starter Package": {
+    "price": "Ksh 15,000 - Ksh 25,000",
+    "discount": "10% off for students",
+    "features": [
+      "Introduction to Web Programming",
+      "Basic HTML, CSS, and JavaScript",
+      "Introduction to Database Programming"
+    ],
+    "duration": "6 weeks",
+    "renewal": "Optional advanced course available"
+  },
+  "Business Growth Package": {
+    "price": "Ksh 35,000 - Ksh 50,000",
+    "discount": "15% off for returning learners",
+    "features": [
+      "Full-Stack Web Development",
+      "Database Management Systems",
+      "Backend Development Basics"
+    ],
+    "duration": "10 weeks",
+    "renewal": "Certification renewal available"
+  },
+  "Premium Enterprise Package": {
+    "price": "Ksh 70,000+",
+    "discount": "20% off for corporate training",
+    "features": [
+      "Advanced Web and Software Development",
+      "Cloud-Based Database Programming",
+      "Custom Software Development Training"
+    ],
+    "duration": "12 weeks",
+    "renewal": "Ongoing mentorship and support"
+  }
+}            
   ],
 
   "Testimonials": [
