@@ -672,31 +672,33 @@
   "Team": [
     {
       "img": "img/team/kasuku.png",
-      "name": "Mr. Michael Kasuku",
-      "job": "Founder & CEO - Spearheading innovation, strategy, and growth to deliver cutting-edge digital solutions."
+      "name": "Michael Kasuku, BSc. Computer Science",
+      "job": "Founder & Lead Software Engineer – Overseeing software development, driving innovation, and ensuring the delivery of cutting-edge digital solutions."
     },
     {
       "img": "img/team/daisy.png",
-      "name": "Ms. Daisy Lopez",
-      "job": "Chief Technology Officer - Leading web development, IT infrastructure, and tech-driven business optimization."
+      "name": "Daisy Lopez, BSc. Information Technology",
+      "job": "Chief Technology Officer (CTO) – Strategizing IT development, optimizing technical infrastructure, and leading digital transformation initiatives."
     },
     {
       "img": "img/team/josphine.png",
-      "name": "Ms. Josphine Otieno",
-      "job": "Digital Strategy & SEO Director - Driving SEO, digital marketing, and content strategies for maximum online visibility."
+      "name": "Josphine Otieno, BA. Community Development",
+      "job": "Director of Digital Strategy & Client Engagement – Leading SEO, content marketing, and customer relationship management to enhance brand visibility and client satisfaction."
     },
     {
       "img": "img/team/mugambi.png",
-      "name": "Mr. Brian Mugambi",
-      "job": "Cybersecurity Analyst - Enhancing digital security and ensuring seamless technological operations."
+      "name": "Brian Mugambi, BSc. Computer Science",
+      "job": "Cybersecurity & IT Infrastructure Lead – Safeguarding digital assets, maintaining system security, and ensuring seamless IT operations."
     }
-  ],
-  "Contact": {
-    "address": "Kakamega, Kenya",
-    "phone": "+254741392099",
-    "email": "kasukutechjunction@gmail.com",
-    "facebook": "https://www.facebook.com/kasukuwebsolutions",
-    "twitter": "https://twitter.com/kasukuwebsolutions",
-    "linkedin": "https://www.linkedin.com/company/kasukuwebsolutions"
-  }
+],
+"Contact": {
+  "address": "Kakamega, Kenya",
+  "phone": "+254741392099",
+  "email": "kasukuwebsolutions@gmail.com",
+  "facebook": "https://www.facebook.com/kasukuwebsolutions",
+  "x": "https://x.com/kasukuwebsolutions",
+  "linkedin": "https://www.linkedin.com/company/kasukuwebsolutions",
+  "instagram": "https://www.instagram.com/kasukuwebsolutions",
+  "youtube": "https://www.youtube.com/@kasukuwebsolutions"
+}
 }

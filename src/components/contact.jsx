@@ -15,16 +15,13 @@ export const Contact = (props) => {
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
-  
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_yk5y4dp", "template_f0vzmhs", e.target, "ThSxzwM-l3MNp_Zwc")
       .then(
         (result) => {
           console.log(result.text);
@@ -98,33 +95,34 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
-            <div className="contact-item">
-              <h3>Contact Info</h3>
-              <p>
-                <span>
-                  <i className="fa fa-map-marker"></i> Address
-                </span>
-                {props.data ? props.data.address : "loading"}
+          <div className="col-md-4 contact-info p-4 shadow-sm rounded-3 bg-white border">
+            <h3 className="mb-4 text-dark fw-semibold">Contact Info</h3>
+            <div className="contact-item d-flex align-items-center mb-3">
+              <div className="icon-box d-flex justify-content-center align-items-center bg-danger text-white rounded-circle me-3">
+                <i className="fa fa-map-marker fs-5"></i>
+              </div>
+              <p className="mb-0 text-muted">
+                <strong className="text-dark">Address:</strong> {props.data ? props.data.address : "Loading..."}
               </p>
             </div>
-            <div className="contact-item">
-              <p>
-                <span>
-                  <i className="fa fa-phone"></i> Phone
-                </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+            <div className="contact-item d-flex align-items-center mb-3">
+              <div className="icon-box d-flex justify-content-center align-items-center bg-success text-white rounded-circle me-3">
+                <i className="fa fa-phone fs-5"></i>
+              </div>
+              <p className="mb-0 text-muted">
+                <strong className="text-dark">Phone:</strong> {props.data ? props.data.phone : "Loading..."}
               </p>
             </div>
-            <div className="contact-item">
-              <p>
-                <span>
-                  <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
-                {props.data ? props.data.email : "loading"}
+            <div className="contact-item d-flex align-items-center">
+              <div className="icon-box d-flex justify-content-center align-items-center bg-warning text-white rounded-circle me-3">
+                <i className="fa fa-envelope fs-5"></i>
+              </div>
+              <p className="mb-0 text-muted">
+                <strong className="text-dark">Email:</strong> {props.data ? props.data.email : "Loading..."}
               </p>
             </div>
           </div>
+
           <div className="col-md-12">
             <div className="row">
               <div className="social">
@@ -135,8 +133,18 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
+                    <a href={props.data ? props.data.x : "/"}>
                       <i className="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.linkedin : "/"}>
+                      <i className="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.instagram : "/"}>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                   <li>
