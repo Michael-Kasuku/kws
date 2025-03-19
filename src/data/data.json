@@ -6,15 +6,11 @@
     "paragraph": "At Kasuku Web Solutions, we empower businesses with innovative digital solutions. Our expertise in web development, digital marketing, IT consulting, and business optimization ensures you stay ahead in a competitive online landscape. We craft tailored strategies that maximize impact, efficiency, and profitability.",
     "Why": [
       "Custom-Built Web Solutions for Maximum Performance",
-      "Advanced SEO Strategies for Top Search Rankings",
-      "High-Impact Digital Marketing to Boost Conversions",
-      "Reliable IT Consulting & 24/7 Technical Support"
+      "Advanced SEO Strategies for Top Search Rankings"
     ],
     "Why2": [
       "Scalable, Future-Proof Digital Solutions",
-      "Client-First Approach with Guaranteed Results",
-      "Data-Driven Strategies for Measurable Growth",
-      "Leveraging the Latest Technology for Maximum Efficiency"
+      "Client-First Approach with Guaranteed Results"
     ]
   },
   "Services": [
@@ -47,53 +43,8 @@
       "icon": "fa fa-share-alt",
       "name": "Social Media Management",
       "text": "Increase engagement and brand impact with expertly crafted social media strategies and management."
-    },
-    {
-      "icon": "fa fa-laptop",
-      "name": "Essential Digital Skills",
-      "text": "Master fundamental digital skills with courses in Computer Essentials, Online Essentials, Online Collaboration, and Cybersecurity to enhance productivity and online safety."
-    },
-    {
-      "icon": "fa fa-briefcase",
-      "name": "Office Productivity Training",
-      "text": "Boost your efficiency with hands-on training in Word Processing, Spreadsheets, and Presentation, equipping you with essential workplace skills."
-    },
-    {
-      "icon": "fa fa-code",
-      "name": "Programming",
-      "text": "Learn the foundations of coding with Web Programming and Database Programming courses, designed to kickstart your journey in software development."
-    },
-    {
-      "icon": "fa fa-paint-brush",
-      "name": "Graphic Design",
-      "text": "Get visually appealing designs for logos, branding, and marketing materials to make a lasting impression."
-    },
-    {
-      "icon": "fa fa-print",
-      "name": "Cyber Services",
-      "text": "Access professional cyber services including printing, lamination, binding, and photocopying at affordable rates."
-    },
-    {
-      "icon": "fa fa-camera",
-      "name": "Photography Services",
-      "text": "Capture high-quality moments with professional photography services for events, branding, and personal use."
-    },
-    {
-      "icon": "fa fa-server",
-      "name": "Computer Networking",
-      "text": "Get reliable networking solutions, including LAN, WAN, and wireless network setup, to enhance connectivity."
-    },        
-    {
-      "icon": "fa fa-mobile",
-      "name": "Mobile App Development",
-      "text": "Turn your ideas into reality with custom mobile applications designed for Android and iOS platforms."
-    },
-    {
-      "icon": "fa fa-database",
-      "name": "ERP Solutions",
-      "text": "Streamline business operations with custom ERP solutions tailored to your company's needs."
     }
-],
+  ],
 
   "Pricing": [
     {
@@ -117,17 +68,6 @@
           "Custom website (up to 7 pages)",
           "SEO optimization",
           "3-month free maintenance"
-        ],
-        "duration": "One-time service",
-        "renewal": "Maintenance renewal(optional)"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 120,000+",
-        "discount": "20% off for long-term clients",
-        "features": [
-          "Premium website (unlimited pages)",
-          "Full SEO package",
-          "6-month free maintenance"
         ],
         "duration": "One-time service",
         "renewal": "Maintenance renewal(optional)"
@@ -157,17 +97,6 @@
         ],
         "duration": "3 months",
         "renewal": "Quarterly renewal(Optional)"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 80,000+",
-        "discount": "20% off for annual commitment",
-        "features": [
-          "Full SEO strategy",
-          "Content optimization",
-          "Weekly performance reports"
-        ],
-        "duration": "6 months",
-        "renewal": "Semi-annual renewal(Optional)"
       }
     },
     {
@@ -194,17 +123,6 @@
         ],
         "duration": "3 months",
         "renewal": "Quarterly renewal(Optional)"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 120,000+",
-        "discount": "15% off for annual commitment",
-        "features": [
-          "Full PPC and social media ads management",
-          "A/B testing & conversion tracking",
-          "SEO-integrated campaigns"
-        ],
-        "duration": "6 months",
-        "renewal": "Semi-annual renewal(Optional)"
       }
     },          
     {
@@ -231,17 +149,6 @@
         "duration": "3 months",
         "renewal": "Quarterly renewal(Optional)",
         "discount": "10% off for 6-month commitment"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 35,000+",
-        "features": [
-          "10+ blog posts (1500+ words each)",
-          "Daily social media content",
-          "Press releases & whitepapers"
-        ],
-        "duration": "6 months",
-        "renewal": "Semi-annual renewal(Optional)",
-        "discount": "15% off for 12-month commitment"
       }
     },
     {
@@ -268,17 +175,6 @@
         ],
         "duration": "3 months",
         "renewal": "Quarterly renewal(Optional)"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 80,000+",
-        "discount": "15% for annual commitment",
-        "features": [
-          "Full IT infrastructure management",
-          "Advanced cybersecurity solutions",
-          "Enterprise cloud solutions"
-        ],
-        "duration": "6 months",
-        "renewal": "Semi-annual renewal(Optional)"
       }
     },          
     {
@@ -305,350 +201,8 @@
         ],
         "duration": "3 months",
         "renewal": "Quarterly renewal (Optional)"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 50,000+",
-        "discount": "15% off for 12-month commitment",
-        "features": [
-          "Full social media strategy",
-          "Daily content posting",
-          "Influencer collaborations"
-        ],
-        "duration": "6 months",
-        "renewal": "Semi-annual renewal (Optional)"
       }
-    },
-    {
-      "icon": "fa fa-laptop",
-      "service": "Essential Digital Skills",
-      "Starter Package": {
-        "price": "Ksh 8,000 - Ksh 12,000",
-        "discount": "10% off for students",
-        "features": [
-          "Computer Essentials",
-          "Online Essentials",
-          "Cybersecurity Basics"
-        ],
-        "duration": "4 weeks",
-        "renewal": "Optional refresher course available"
-      },
-      "Business Growth Package": {
-        "price": "Ksh 15,000 - Ksh 25,000",
-        "discount": "15% off for returning learners",
-        "features": [
-          "Online Collaboration",
-          "Cybersecurity for Work",
-          "Digital Productivity Tools"
-        ],
-        "duration": "6 weeks",
-        "renewal": "Certification renewal available"
-      },
-      "Premium Enterprise Package": {
-        "price": "Ksh 30,000+",
-        "discount": "20% off for corporate training",
-        "features": [
-          "Comprehensive Digital Skills Training",
-          "Cybersecurity Awareness Program",
-          "Workplace Digital Transformation"
-        ],
-        "duration": "8 weeks",
-        "renewal": "Ongoing support and updates"
-      }
-    },
-
-        {
-  "icon": "fa fa-briefcase",
-  "service": "Office Productivity Training",
-  "Starter Package": {
-    "price": "Ksh 10,000 - Ksh 18,000",
-    "discount": "10% off for first-time learners",
-    "features": [
-      "Basic Word Processing",
-      "Basic Spreadsheets",
-      "Basic Presentations"
-    ],
-    "duration": "4 weeks",
-    "renewal": "Optional advanced training available"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 20,000 - Ksh 35,000",
-    "discount": "15% off for returning learners",
-    "features": [
-      "Intermediate Word Processing",
-      "Advanced Spreadsheets",
-      "Professional Presentation Skills"
-    ],
-    "duration": "6 weeks",
-    "renewal": "Certification renewal available"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 40,000+",
-    "discount": "20% off for corporate teams",
-    "features": [
-      "Comprehensive Office Suite Training",
-      "Data Analysis with Spreadsheets",
-      "Advanced Business Reporting"
-    ],
-    "duration": "8 weeks",
-    "renewal": "Ongoing support and updates"
-  }
-},
-{
-  "icon": "fa fa-code",
-  "service": "Programming",
-  "Starter Package": {
-    "price": "Ksh 15,000 - Ksh 25,000",
-    "discount": "10% off for students",
-    "features": [
-      "Introduction to Web Programming",
-      "Basic HTML, CSS, and JavaScript",
-      "Introduction to Database Programming"
-    ],
-    "duration": "6 weeks",
-    "renewal": "Optional advanced course available"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 35,000 - Ksh 50,000",
-    "discount": "15% off for returning learners",
-    "features": [
-      "Full-Stack Web Development",
-      "Database Management Systems",
-      "Backend Development Basics"
-    ],
-    "duration": "10 weeks",
-    "renewal": "Certification renewal available"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 70,000+",
-    "discount": "20% off for corporate training",
-    "features": [
-      "Advanced Web and Software Development",
-      "Cloud-Based Database Programming",
-      "Custom Software Development Training"
-    ],
-    "duration": "12 weeks",
-    "renewal": "Ongoing mentorship and support"
-  }
-},
-{
-  "icon": "fa fa-paint-brush",
-  "service": "Graphic Design",
-  "Starter Package": {
-    "price": "Ksh 5,000 - Ksh 15,000",
-    "discount": "10% off for first-time customers",
-    "features": [
-      "Logo design (2 initial concepts)",
-      "Basic branding kit (color palette & typography)",
-      "1 revision"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional revisions available at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 20,000 - Ksh 50,000",
-    "discount": "15% off for returning customers",
-    "features": [
-      "Logo design (4 initial concepts)",
-      "logo variations, business card design",
-      "3 revisions"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional revisions available at extra cost"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 60,000+",
-    "discount": "20% off for long-term clients",
-    "features": [
-      "logo, business cards, letterheads",
-      "Unlimited revisions",
-      "Branding guidelines document"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional branding support available at extra cost"
-  }
-},
-{
-  "icon": "fa fa-print",
-  "service": "Cyber Services",
-  "Starter Package": {
-    "price": "Ksh 500 - Ksh 2,000",
-    "discount": "5% off for first-time customers",
-    "features": [
-      "Black & white printing (up to 50 pages)",
-      "Basic photocopying (up to 50 pages)",
-      "Lamination (up to 5 pages)"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional services available at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 3,000 - Ksh 7,000",
-    "discount": "10% off for returning customers",
-    "features": [
-      "Color printing (up to 50 pages)",
-      "Photocopying (up to 200 pages)",
-      "Lamination (up to 20 pages)"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional services available at extra cost"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 10,000+",
-    "discount": "15% off for bulk orders",
-    "features": [
-      "Color printing (up to 200 pages)",
-      "Photocopying (unlimited pages)",
-      "Lamination (up to 50 pages)"
-    ],
-    "duration": "One-time service",
-    "renewal": "Custom service contracts available at extra cost"
-  }
-},{
-  "icon": "fa fa-camera",
-  "service": "Photography Services",
-  "Starter Package": {
-    "price": "Ksh 5,000 - Ksh 15,000",
-    "discount": "10% off for first-time customers",
-    "features": [
-      "1-hour photo session",
-      "10 high-resolution edited images",
-      "Softcopy delivery"
-    ],
-    "duration": "One-time service",
-    "renewal": "Extra photos at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 20,000 - Ksh 50,000",
-    "discount": "15% off for returning customers",
-    "features": [
-      "3-hour photo session",
-      "30 high-resolution edited images",
-      "Softcopy & printed copies (up to 10 prints)"
-    ],
-    "duration": "One-time service",
-    "renewal": "Extra photos, albums, or retouching at extra cost"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 60,000+",
-    "discount": "20% off for long-term clients",
-    "features": [
-      "Full-day event coverage",
-      "Unlimited high-resolution edited images",
-      "Softcopy & printed album (up to 50 prints)"
-    ],
-    "duration": "One-time service",
-    "renewal": "Ongoing photography packages available"
-  }
-},{
-  "icon": "fa fa-server",
-  "service": "Computer Networking",
-  "Starter Package": {
-    "price": "Ksh 10,000 - Ksh 30,000",
-    "discount": "10% off for first-time customers",
-    "features": [
-      "Small office/home network setup (up to 5 devices)",
-      "Basic LAN/Wi-Fi installation & configuration",
-      "1-month support"
-    ],
-    "duration": "One-time service",
-    "renewal": "Maintenance available at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 40,000 - Ksh 100,000",
-    "discount": "15% off for returning customers",
-    "features": [
-      "Business network setup (up to 20 devices)",
-      "Structured cabling & router configuration",
-      "3-month support"
-    ],
-    "duration": "One-time service",
-    "renewal": "Maintenance available at extra cost"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 120,000+",
-    "discount": "20% off for long-term clients",
-    "features": [
-      "Enterprise-grade network setup (50+ devices)",
-      "LAN, WAN, and wireless network deployment",
-      "6-month premium support"
-    ],
-    "duration": "One-time service",
-    "renewal": "Maintenance available at extra cost"
-  }
-},{
-  "icon": "fa fa-mobile",
-  "service": "Mobile App Development",
-  "Starter Package": {
-    "price": "Ksh 50,000 - Ksh 100,000",
-    "discount": "10% off for first-time customers",
-    "features": [
-      "Basic mobile app (Android or iOS)",
-      "Up to 3 core features",
-      "1-month free maintenance"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional features available at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 150,000 - Ksh 300,000",
-    "discount": "15% off for returning customers",
-    "features": [
-      "Custom mobile app (Android & iOS)",
-      "Up to 7 core features",
-      "3-month free maintenance"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional features available at extra cost"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 400,000+",
-    "discount": "20% off for long-term clients",
-    "features": [
-      "Full-scale mobile app (Android & iOS)",
-      "Unlimited features & custom integrations",
-      "6-month premium support"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional features available at extra cost"
-  }
-},
-{
-  "icon": "fa fa-database",
-  "service": "ERP Solutions",
-  "Starter Package": {
-    "price": "Ksh 100,000 - Ksh 250,000",
-    "discount": "10% off for first-time customers",
-    "features": [
-      "Basic ERP system with core modules",
-      "Role-based access control",
-      "1-month free support & training"
-    ],
-    "duration": "One-time service",
-    "renewal": "Additional modules available at extra cost"
-  },
-  "Business Growth Package": {
-    "price": "Ksh 300,000 - Ksh 800,000",
-    "discount": "15% off for returning customers",
-    "features": [
-      "Custom ERP system with advanced modules",
-      "Multi-user support & cloud hosting",
-      "3-month free support & training"
-    ],
-    "duration": "One-time service",
-    "renewal": "Ongoing updates available"
-  },
-  "Premium Enterprise Package": {
-    "price": "Ksh 1,000,000+",
-    "discount": "20% off for long-term clients",
-    "features": [
-      "Full-scale enterprise ERP system",
-      "High-security & scalability for large organizations",
-      "6-month premium support & training"
-    ],
-    "duration": "One-time service",
-    "renewal": "Long-term support available"
-  }
-}
+    }
 ],
 
   "Testimonials": [
@@ -692,7 +246,7 @@
     }
 ],
 "Contact": {
-  "address": "Kakamega, Kenya",
+  "address": "City of Kisumu, Kisumu County, Kenya",
   "phone": "+254741392099",
   "email": "kasukuwebsolutions@gmail.com",
   "facebook": "https://www.facebook.com/kasukuwebsolutions",
